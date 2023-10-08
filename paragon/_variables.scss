@@ -2,3 +2,17 @@
 // See _variables.scss in https://github.com/openedx/paragon/blob/master/scss/core/ for reference
 $primary: #d34c27 !default; // elm
 $brand: #d34c27 !default;
+
+$primary-300: $primary;
+$primary-400: $primary;
+$primary-500: $primary;
+$primary-600: $primary;
+$primary-700: $primary;
+
+$brand-500: $brand;
+$brand-700: $brand;
+
+
+$font-family-sans-serif:     "Helvetica Neue" !default;
+$font-family-monospace:      "Helvetica Neue" !default;
+$font-family-serif:          $font-family-sans-serif !default;
